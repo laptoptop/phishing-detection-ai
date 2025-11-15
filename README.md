@@ -6,7 +6,7 @@ Privacy-first phishing detection using Hybrid ML + Local LLM.
 
 ## ✨ Features
 
-- ✅ **RandomForest ML** + **DeepSeek R1 LLM**
+- ✅ **RandomForest ML** + **GPT-OSS:20B LLM**
 - ✅ **100% Local Processing** - No external APIs
 - ✅ **Zero Monthly Costs** - Self-hosted infrastructure
 - ✅ **Explainable AI** - Detailed threat analysis
@@ -59,7 +59,7 @@ User → Next.js UI → n8n Workflow → ML Model → AI Analysis → Response
 
 - **Frontend:** Next.js 16, React, TypeScript, Tailwind CSS
 - **ML:** Python, scikit-learn, RandomForest
-- **AI:** Ollama, DeepSeek R1 (20B params)
+- **AI:** Ollama, GPT-OSS:20B
 - **Orchestration:** n8n workflow engine
 - **Infrastructure:** Docker, NVIDIA GPU, Proxmox
 
@@ -79,6 +79,6 @@ MIT License
 
 ## 🙏 Acknowledgments
 
-- DeepSeek AI for R1 model
+- GPT OSS: 20B model
 - Ollama for LLM deployment
 - Claude AI for development assistance
