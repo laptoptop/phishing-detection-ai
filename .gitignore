@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.npm/
+package-lock.json
+
+# Build
+.next/
+build/
+dist/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
