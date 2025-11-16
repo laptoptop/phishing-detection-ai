@@ -15,7 +15,7 @@ Privacy-first phishing detection using Hybrid ML + Local LLM.
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/phishing-detection-ai.git
+git clone https://github.com/laptoptop/phishing-detection-ai.git
 
 # Install dependencies
 cd phishing-detection-ai
